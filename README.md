@@ -1,0 +1,2 @@
+# NotyBot
+NotyBot has been shotlisted for "Alexa Skills Hackathon".The number of times we laugh each day is indirectly proportional to our success. With every day, we are so lost in in our daily lives, that rest aside laughter we do not take a moment to appreciate and smile as well. NotyBot can be that funny friend of yours whom you miss the most around, cracking up every now and then.It would have the craziest and naughtiest of answers you can ever think of, to make you laugh and smile. 
